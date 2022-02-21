@@ -1,13 +1,9 @@
-/*
- !!!!revoir juste la typo!!!
-  font-family: 'Montserrat', sans-serif; 100it/800
-  font-family: 'Open Sans ', sans-serif; 400/400it/700/700it
-*/
 html {
   scroll-behavior: smooth;
 }
 
 body {
+  font-family: 'Open Sans ', sans-serif;
   max-width: 320px;
   margin: auto;
   padding: 5px 20px 5px 20px;
@@ -33,6 +29,19 @@ footer {
 img {
   max-width: 100%;
   height: auto;
+}
+
+h1 {
+  font-size: 25px;
+}
+
+h3 {
+  font-size: 15px; 
+}
+
+h1, h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 100;
 }
 
 button {
