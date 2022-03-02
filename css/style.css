@@ -51,6 +51,10 @@ button {
   font-weight: 700;
 }
 
+button:hover {
+  background: #666;
+}
+
 .bgGreen {
   background-color: #00fca6;
 }
