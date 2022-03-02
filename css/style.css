@@ -14,7 +14,7 @@ body {
 }
 
 header {
-  background-image: linear-gradient(rgba(40, 37, 37, 0.762), rgba(40, 37, 37, 0.762)), url("../img/background_titre.png");
+  background-image: linear-gradient(rgba(40, 37, 37, 0.762), rgba(40, 37, 37, 0.762)), url("../img/background_titre.jpg");
   border: solid 2px white;
 }
 
